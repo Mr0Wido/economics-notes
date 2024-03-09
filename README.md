@@ -1,2 +1,1 @@
-# economics-notes
-Notes for Economics Course
+# Notes for Economics Course
