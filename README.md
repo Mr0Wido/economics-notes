@@ -4,5 +4,5 @@ I'm Economics student in Anadolu University and this repository contains notes f
 
 ### Intruduction to Economics II
 
-[ITE-N1](/intruduction_to_economics_II/ite_n1.md)
-[ITE-N2](/intruduction_to_economics_II/ite_n2.md)
+[Introduction To Economics - 101](/introduction_to_economics/ite_101.md) <br>
+[Introduction To Economics - 102](/introduction_to_economics/ite_102.md)
