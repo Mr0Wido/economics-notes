@@ -96,6 +96,8 @@ Council of Europe Member States | Albania, Andorra, Armenia, Austria, Azerbaijan
     - *Much work has been done upon this task by the exertions of the Pan-European Union which owes so much to Count Coudenhove-Kalergi and which commanded the services of the famous French patriot and statesman, Aristide Briand....*
 
 <br>
+<br>
+<br>
 
 ## __Some Information About EU and EU History__
 
@@ -189,6 +191,10 @@ Lizbon Antlaşması (Reform Antlaşması), Fransa ve Hollanda'nın halk oylamas�
   - *Foreign and Security Policy*
   - *Tax Policy*
 
+<br>
+<br>
+<br>
+<br>
 <br>
 
 # __Midterm__
